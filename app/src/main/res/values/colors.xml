@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myHikesPurple">#FFBB86FC</color>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="myHikesWhite">#FFFFFFFF</color>
+    <color name="myHikesBlack">#040407</color>
+    <color name="ocean_blue">#071561</color>
+</resources>

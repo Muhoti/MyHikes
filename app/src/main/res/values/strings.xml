@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyHikes</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="my_hikes">MY HIKES</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="logout">Logout</string>
+    <string name="about_info">About Info</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="longitude">longitude</string>
+    <string name="upload">Upload</string>
+    <string name="latitude">Latitude</string>
+    <string name="name">Name</string>
+    <string name="uhuru_park">Uhuru Park</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="register_as_user">Register as User</string>
+    <string name="register_as_admin">Register as Admin</string>
+    <string name="title_activity_home_content">HomeContent</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="visit_site">VISIT SITE</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="todo">TODO</string>
+    <string name="showcatalogue">ShowCatalogue</string>
+    <string name="your_no_1_guide_for_your_coolest_adventures">Your #No.1 Guide for your Coolest Adventures!</string>
+    <string name="pick_your_hike">PICK YOUR HIKE</string>
+</resources>
