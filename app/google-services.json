@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547906629802",
+    "firebase_url": "https://myhikes-271ec-default-rtdb.firebaseio.com",
+    "project_id": "myhikes-271ec",
+    "storage_bucket": "myhikes-271ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547906629802:android:536f9af05aff63a489e0d3",
+        "android_client_info": {
+          "package_name": "com.strongmuhoti.myhikes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547906629802-46obspcagf7fd0ndd3kkh3adp3v4uhdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGKRRHf3w_2CE_me97uEVqDLTei-SFL6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547906629802-46obspcagf7fd0ndd3kkh3adp3v4uhdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
