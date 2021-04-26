@@ -29,7 +29,6 @@ public class Home extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-
         logout = (Button) findViewById(R.id.logout);
         button = (Button) findViewById(R.id.nav_btn);
         topic = findViewById(R.id.topic);

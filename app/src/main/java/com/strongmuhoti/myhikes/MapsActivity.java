@@ -121,7 +121,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.setMyLocationEnabled(true);
         mMap.getUiSettings().setMyLocationButtonEnabled(true);
         //Show marker on screen and adjust zoom levels
-        mMap.addMarker(new MarkerOptions().position(myLocation).title("Origin").
+        mMap.addMarker(new MarkerOptions().position(myLocation).title("Your Location").
                 icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED)));
 
         mMap.addMarker(new MarkerOptions().position(featureLocation).title(mTitle).
@@ -262,5 +262,3 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     }
 
 }
-
-

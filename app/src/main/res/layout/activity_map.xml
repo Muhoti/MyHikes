@@ -1,37 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:map="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MapActivity">
-    <androidx.fragment.app.FragmentContainerView
-        android:id="@+id/map"
-        android:name="com.google.android.gms.maps.SupportMapFragment"
-        android:layout_width="match_parent"
-        android:layout_height="600dp"
-        tools:context=".MapsActivity" >
-
-    </androidx.fragment.app.FragmentContainerView>
-
-    <TextView
-        android:id="@+id/latSpace"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="620dp"
-        android:layout_marginEnd="220dp"
-        android:layout_marginRight="220dp"
-        android:ems="10"
-        android:hint="@string/latitude" />
-
-    <TextView
-        android:id="@+id/longSpace"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="220dp"
-        android:layout_marginLeft="220dp"
-        android:layout_marginTop="620dp"
-        android:ems="10"
-        android:hint="@string/longitude" />
-
-</FrameLayout>
+    tools:context=".MapActivity" />
